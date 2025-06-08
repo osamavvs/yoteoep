@@ -10,7 +10,7 @@ API_HASH = "5b8a468627791bdd36a8c361913b0b72"
 API_TOKEN = "7473346578:AAHuyXbW959Hmr0UL8U9LE4SOzzRgDrboHE"
 
 app = Client("DownloadYouTube", api_id=API_ID, api_hash=API_HASH, bot_token=API_TOKEN)
-api_key = "ed6157259537158fd05a398400edd20"
+api_key = "5b8a468627791bdd36a8c361913b0b72"
 
 user_queries = {}
 
